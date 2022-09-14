@@ -1,0 +1,10 @@
+target
+rust/*
+!/rust/*.*
+c
+.vscode
+*.exe
+*.out
+*.toml
+*.sh
+*.txt
